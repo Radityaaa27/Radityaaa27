@@ -1,8 +1,9 @@
-## 💫 About Me:
-### Hi there,My Name is Girindra Raditya Rizki and I'm Full-Stack Developer,from indonesia<br><br>- 🌱 I’m currently learning **Data Scientist**
+### 💫 About Me:
+#### Hi there,My Name is Girindra Raditya Rizki and I'm Full-Stack Developer,from indonesia<br><br>- 🌱 I’m currently learning **Data Scientist** <br><br>- 🗣️ People called me `Girindra`/ `Radit`
 
 
-### 🌐 Socials:
+
+#### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Girindra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/girindra_raditya.rizki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girindra-raditya-rizki-978047355/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Shixna_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GIDRATYAKI1) 
 
 # 💻 Tech Stack:
@@ -12,7 +13,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=radityaaa27&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=radityaaa27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=radityaaa27&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
