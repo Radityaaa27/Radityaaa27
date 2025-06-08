@@ -1,5 +1,5 @@
 ### 💫 About Me:
-#### Hi there,My Name is Girindra Raditya Rizki and I'm Full-Stack Developer,from indonesia<br><br>- 🌱 I’m currently learning **Data Scientist** <br><br>- 🗣️ People called me `Girindra`/ `Radit`
+#### Hi there,My Name is Girindra Raditya Rizki and I'm Full-Stack Developer,from indonesia<br><br>- 🌱 I’m currently learning **Data Scientist & Web3/BlockChain** <br><br>- 🗣️ People called me `Girindra`/ `Radit`
 
 
 
