@@ -1,5 +1,5 @@
 ### 💫 About Me:
-#### Hi there, My Name is Girindra Raditya Rizki and I'm a Full-Stack Developer from Indonesia<br><br>- 🌱 I'm currently learning **Python for AI/Data Science** & re-learning **Laravel** <br><br>- 🗣️ People called me `Girindra`/ `Radit`
+#### Hi there, My Name is Girindra Raditya Rizki and I'm a Full-Stack Developer from Indonesia<br><br>- 🌱 I'm currently learning **AI/Data Science** <br><br>- 🗣️ People called me `Girindra`/ `Radit`
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/girindra.girindra.94849/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/girindra_raditya.rizki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girindra-raditya-rizki-978047355/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Shixna_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GIDRATYAKI1)
@@ -10,19 +10,4 @@
 # 📌 Featured Projects:
 - 🏥 [HR-Management-System](https://github.com/radityaaa27/HR-Management-System) — TypeScript
 - 🍜 [Resep-AI](https://github.com/radityaaa27/Resep-AI) — JavaScript
-- 🌊 [Seapedia](https://seapedia-lemon.vercel.app/) — MERN Stack (Node.js, Express, React, Prisma)
-- 🧪 [Test-web3](https://github.com/radityaaa27/Test-web3) — TypeScript
-- ⏱️ [Timestamp-Microservice](https://github.com/radityaaa27/Timestamp-Microservice) — JavaScript
-- 💬 [Random-Quote-Machine](https://github.com/radityaaa27/Random-Quote-Machine) — JavaScript
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=radityaaa27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=radityaaa27&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=radityaaa27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=radityaaa27&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=radityaaa27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌊 [Seapedia](https://seapedia-lemon.vercel.app/) — MERN Stack (Node.js, Express, React,
