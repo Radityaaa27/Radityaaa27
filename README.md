@@ -10,4 +10,16 @@
 # 📌 Featured Projects:
 - 🏥 [HR-Management-System](https://github.com/radityaaa27/HR-Management-System) — TypeScript
 - 🍜 [Resep-AI](https://github.com/radityaaa27/Resep-AI) — JavaScript
-- 🌊 [Seapedia](https://seapedia-lemon.vercel.app/) — MERN Stack (Node.js, Express, React,
+- 🌊 [Seapedia](https://seapedia-lemon.vercel.app/) — MERN Stack (Node.js, Express, React, Prisma)
+- 🧪 [Test-web3](https://github.com/radityaaa27/Test-web3) — TypeScript
+- ⏱️ [Timestamp-Microservice](https://github.com/radityaaa27/Timestamp-Microservice) — JavaScript
+- 💬 [Random-Quote-Machine](https://github.com/radityaaa27/Random-Quote-Machine) — JavaScript
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=radityaaa27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=radityaaa27&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=radityaaa27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
